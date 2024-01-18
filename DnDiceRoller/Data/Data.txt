@@ -1,0 +1,2 @@
+Planned Small Database run with sqlite3
+    - Likely need subfolder for database, as this folder will likely also house images for UI.
