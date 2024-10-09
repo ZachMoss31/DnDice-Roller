@@ -1,2 +1,3 @@
 # DnDice-Roller
-Small Program to roll DnD Dice with eventual GUI. Written in Python.
+Application to roll DnD Dice. 
+Project created to get hands on with PySide and OpenGL on Android.
